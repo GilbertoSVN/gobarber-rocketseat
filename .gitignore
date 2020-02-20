@@ -1,5 +1,5 @@
 backend/node_modules
-backend/tmp
+backend/tmp/uploads
 backend/.env
 backend/STEPS.md
 frontend/node_modules
